@@ -1,0 +1,13 @@
+{
+  "hooks": {
+    "Stop": [
+      { "hooks": [ { "type": "command", "command": "python", "args": ["C:/путь/к/проекту/scripts/hook_sound.py"] } ] }
+    ],
+    "UserPromptSubmit": [
+      { "hooks": [ { "type": "command", "command": "python", "args": ["C:/путь/к/проекту/scripts/hook_sound.py"] } ] }
+    ],
+    "Notification": [
+      { "hooks": [ { "type": "command", "command": "python", "args": ["C:/путь/к/проекту/scripts/hook_sound.py"] } ] }
+    ]
+  }
+}
